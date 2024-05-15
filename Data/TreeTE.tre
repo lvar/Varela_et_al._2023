@@ -1,0 +1,301 @@
+#NEXUS
+[written Sat Jan 20 12:32:41 UYT 2024 by Mesquite  version 3.81 (build 955) at ASUS-TUF/192.168.1.8]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=89;
+	TAXLABELS
+		Capra_hircus Ovis_aries Gazella_dorcas Tetracerus_quadricornis Bos_taurus Dama_dama Rucervus_eldii Alces_alces Giraffa_camelopardalis Sus_scrofa Lama_glama Camelus_dromedarius Equus_caballus Equus_asinus Tapirus_indicus Toxodon_platensis Macrauchenia_patachonica Arctocephalus_forsteri Arctocephalus_pusillus Lobodon_carcinophaga Hydrurga_leptonyx Ursus_arctos Vulpes_vulpes Canis_familiaris Felis_catus Panthera_pardus Manis_javanica Macroderma_gigas Lepus_capensis Lepus_europaeus Oryctolagus_cuniculus Rattus_lutreolus Rattus_fuscipes Leporillus_conditor Neosclerocalyptus_paskoensis Neosclerocalyptus_ornatus Panochthus_tuberculatus Glyptodon_reticulatus Holmesina_majus Neoglyptatelus_uruguayensis Cabassous_unicinctus Priodontes_maximus Chaetophractus_vallerosus Euphractus_sexcinctus Dasypus_novemcinctus Dasypus_punctatus Dasypus_hybridus Propraopus_sulcatus Catonyx_cuvieri Scelidotherium_leptocephalum Valgipes_bucklandi Choloepus_sp Mylodon_darwinii Glossotherium_robustum Lestodon_armatus Bradypus_torquatus Bradypus_tridactylus Nothrotherium_maquinense Megatherium_americanum Tamandua_tetradactyla Myrmecophaga_tridactyla Cyclopes_didactylus Elephas_maximus Notamacropus_irma Notamacropus_greyi Notamacropus_agilis Notamacropus_parryi Osphranter_rufus Osphranter_robustus Macropus_fuliginosus Dendrolagus_bennettianus Dorcopsis_hageni Bettongia_lesueur Bettongia_penicillata Aepyprymnus_rufescens Potorous_tridactylus Hypsiprymnodon_moschatus Pseudocheirus_peregrinus Petaurus_breviceps Lasiorhinus_latifrons Vombatus_ursinus Phascolarctos_cinereus Antechinus_minimus Dasyuroides_byrnei Thylacinus_cynocephalus Isoodon_obesulus Perameles_gunnii Tachyglossus_aculeatus Ornithorhynchus_anatinus 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "Tree.tre"';
+	ID 018d27734c3d1;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Capra_hircus,
+[1] 		2 Ovis_aries,
+[2] 		3 Gazella_dorcas,
+[3] 		4 Tetracerus_quadricornis,
+[4] 		5 Bos_taurus,
+[5] 		6 Dama_dama,
+[6] 		7 Rucervus_eldii,
+[7] 		8 Alces_alces,
+[8] 		9 Giraffa_camelopardalis,
+[9] 		10 Sus_scrofa,
+[10] 		11 Lama_glama,
+[11] 		12 Camelus_dromedarius,
+[12] 		13 Equus_caballus,
+[13] 		14 Equus_asinus,
+[14] 		15 Tapirus_indicus,
+[15] 		16 Toxodon_platensis,
+[16] 		17 Macrauchenia_patachonica,
+[17] 		18 Arctocephalus_forsteri,
+[18] 		19 Arctocephalus_pusillus,
+[19] 		20 Lobodon_carcinophaga,
+[20] 		21 Hydrurga_leptonyx,
+[21] 		22 Ursus_arctos,
+[22] 		23 Vulpes_vulpes,
+[23] 		24 Canis_familiaris,
+[24] 		25 Felis_catus,
+[25] 		26 Panthera_pardus,
+[26] 		27 Manis_javanica,
+[27] 		28 Macroderma_gigas,
+[28] 		29 Lepus_capensis,
+[29] 		30 Lepus_europaeus,
+[30] 		31 Oryctolagus_cuniculus,
+[31] 		32 Rattus_lutreolus,
+[32] 		33 Rattus_fuscipes,
+[33] 		34 Leporillus_conditor,
+[34] 		35 Neosclerocalyptus_paskoensis,
+[35] 		36 Neosclerocalyptus_ornatus,
+[36] 		37 Panochthus_tuberculatus,
+[37] 		38 Glyptodon_reticulatus,
+[38] 		39 Holmesina_majus,
+[39] 		40 Neoglyptatelus_uruguayensis,
+[40] 		41 Cabassous_unicinctus,
+[41] 		42 Priodontes_maximus,
+[42] 		43 Chaetophractus_vallerosus,
+[43] 		44 Euphractus_sexcinctus,
+[44] 		45 Dasypus_novemcinctus,
+[45] 		46 Dasypus_punctatus,
+[46] 		47 Dasypus_hybridus,
+[47] 		48 Propraopus_sulcatus,
+[48] 		49 Catonyx_cuvieri,
+[49] 		50 Scelidotherium_leptocephalum,
+[50] 		51 Valgipes_bucklandi,
+[51] 		52 Choloepus_sp,
+[52] 		53 Mylodon_darwinii,
+[53] 		54 Glossotherium_robustum,
+[54] 		55 Lestodon_armatus,
+[55] 		56 Bradypus_torquatus,
+[56] 		57 Bradypus_tridactylus,
+[57] 		58 Nothrotherium_maquinense,
+[58] 		59 Megatherium_americanum,
+[59] 		60 Tamandua_tetradactyla,
+[60] 		61 Myrmecophaga_tridactyla,
+[61] 		62 Cyclopes_didactylus,
+[62] 		63 Elephas_maximus,
+[63] 		64 Notamacropus_irma,
+[64] 		65 Notamacropus_greyi,
+[65] 		66 Notamacropus_agilis,
+[66] 		67 Notamacropus_parryi,
+[67] 		68 Osphranter_rufus,
+[68] 		69 Osphranter_robustus,
+[69] 		70 Macropus_fuliginosus,
+[70] 		71 Dendrolagus_bennettianus,
+[71] 		72 Dorcopsis_hageni,
+[72] 		73 Bettongia_lesueur,
+[73] 		74 Bettongia_penicillata,
+[74] 		75 Aepyprymnus_rufescens,
+[75] 		76 Potorous_tridactylus,
+[76] 		77 Hypsiprymnodon_moschatus,
+[77] 		78 Pseudocheirus_peregrinus,
+[78] 		79 Petaurus_breviceps,
+[79] 		80 Lasiorhinus_latifrons,
+[80] 		81 Vombatus_ursinus,
+[81] 		82 Phascolarctos_cinereus,
+[82] 		83 Antechinus_minimus,
+[83] 		84 Dasyuroides_byrnei,
+[84] 		85 Thylacinus_cynocephalus,
+[85] 		86 Isoodon_obesulus,
+[86] 		87 Perameles_gunnii,
+[87] 		88 Tachyglossus_aculeatus,
+[88] 		89 Ornithorhynchus_anatinus;
+	TREE UNTITLED = ((((((((((((((1:7.65408,2:7.65408):9.34929,3:17.00337):4.62226,(4:15.8861,5:15.8861):5.73953):2.06947,((6:6.73653,7:6.73653):6.05993,8:12.79646):10.89864):3.05625,9:26.75135):35.0913,10:61.84265):2.15735,(11:20.91703,12:20.91703):43.08297):10.25,(((13:11.1,14:11.1):44.28,15:55.38):9.435,(16:55.38,17:55.38):9.435):9.435):1.75,((((((18:5.80286,19:5.80286):18.00709,(20:5.26733,21:5.26733):18.54262):16.31005,22:40.12):4.98,(23:12.24414,24:12.24414):32.85586):10.26164,(25:11.91318,26:11.91318):43.44846):18.88836,27:74.25):1.75):5.02605,28:81.02605):12.97395,(((29:4.31842,30:4.31842):11.85806,31:16.17648):62.79413,((32:1.49688,33:1.49688):11.56226,34:13.05914):65.91147):15.02939):5.1887,((((((((((35:20.2,36:18.9):1.0,37:21.2):1.0,38:22.2):3.75,39:25.95):1.875,40:14.375):1.875,(41:22.2,42:22.2):7.5):7.5,(43:7.63678,44:7.63678):29.56322):5.25,(((45:3.03271,46:3.03271):3.03271,47:6.06542):18.19229,48:24.25771):18.19229):25.2786,((((((49:15.75,50:15.75):1.0,51:16.75):10.130425,((54:10.75,55:10.75):1.0,53:11.75):15.130425):5.0652125,52:31.9456385):5.0652125,(((56:16.75,57:16.75):5.065213,58:21.815212):5.065213,59:26.880425):10.130425):20.26085,((60:12.95,61:12.95):27.05,62:40.0):17.2717):10.4569):29.0906,63:96.8192):2.3695):60.8113,(((((((((((64:2.37875,65:2.37875):2.37875,(66:4.11875,67:4.11875):0.63875):2.13516,(68:2.5,69:2.5):4.39266):0.47734,70:7.37):1.94625,71:9.31625):0.88375,72:10.2):11.11,(((73:6.56,74:6.56):3.66,75:10.22):3.735,76:13.955):7.355):11.31,77:32.62):15.435,(78:33.49,79:33.49):14.565):4.585,((80:9.8,81:9.8):25.07318,82:34.87318):17.76682):8.13164,(((83:18.0355,84:18.0355):20.4345,85:38.47):19.53,(86:11.6031,87:11.6031):46.3969):2.77164):99.22836):20.0661,(88:46.7284,89:46.7284):133.3377)[% ] [% ] [%  setBetweenBits = selected ];
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1705764761113;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 8871407228849345595;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #8871407228849345595 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #8871407228849345595;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 392;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #8871407228849345595  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 018d27734c3d1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1159.1705763887402.3881696987017102197;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 392;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientRight;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

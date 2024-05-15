@@ -1,89 +1,90 @@
-Taxa,LogQi,LogFL,LogBm,LogBMR,LogMMR,Group
-Aepyprymnus_rufescens,-4.51,1.02,3.45,3.03,,Prototheria+Metatheria
-Alces_alces,-2.82,1.63,5.51,4.71,,Epitheria
-Antechinus_minimus,-5.66,0.426,1.57,,,Prototheria+Metatheria
-Arctocephalus_forsteri,-3.58,0.865,4.74,,,Epitheria
-Arctocephalus_pusillus,-2.97,1.11,4.88,,,Epitheria
-Bettongia_lesueur,-4.66,0.892,3.11,,,Prototheria+Metatheria
-Bettongia_penicillata,-4.76,0.901,3.01,2.75,4.07,Prototheria+Metatheria
-Bos_taurus,-3.03,1.59,5.35,4.67,6.16,Epitheria
-Bradypus_torquatus,-5.96,0.993,3.59,,,Xenarthra
-Bradypus_tridactylus,-5.27,1.01,3.59,2.84,3.15,Xenarthra
-Cabassous_unicinctus,-4.83,0.88,3.51,2.91,,Xenarthra
-Camelus_dromedarius,-3.06,1.66,5.6,4.61,6.08,Epitheria
-Canis_familiaris,-3.1,1.18,4.21,,5.36,Epitheria
-Capra_hircus,-3.57,1.28,4.39,4.1,4.91,Epitheria
-Catonyx_cuvieri,-2.45,1.61,5.78,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Chaetophractus_vallerosus,-4.94,0.815,3.01,2.48,,Xenarthra
-Cyclopes_didactylus,-6.56,0.556,2.38,2.06,,Xenarthra
-Dama_dama,-3.49,1.4,4.85,,,Epitheria
-Dasypus_hybridus,-5.29,0.828,3.2,,,Xenarthra
-Dasypus_novemcinctus,-5.38,0.954,3.65,2.94,3.95,Xenarthra
-Dasypus_punctatus,-4.16,1.25,4.45,,,Xenarthra
-Dasyuroides_byrnei,-5.76,0.528,1.96,1.86,3.16,Prototheria+Metatheria
-Dendrolagus_bennettianus,-4.4,1.19,3.97,,,Prototheria+Metatheria
-Dorcopsis_hageni,-5.25,1.11,3.55,,,Prototheria+Metatheria
-Elephas_maximus,-1.61,2,6.66,5.61,6.58,Epitheria
-Equus_asinus,-2.27,1.55,5.25,4.47,,Epitheria
-Equus_caballus,-1.61,1.67,5.83,4.81,6.53,Epitheria
-Euphractus_sexcinctus,-4.74,0.881,3.68,3.09,,Xenarthra
-Felis_catus,-4.83,1.04,3.66,3.31,,Epitheria
-Gazella_dorcas,-3.97,1.19,4.33,,,Epitheria
-Giraffa_camelopardalis,-2.4,1.64,5.88,,,Epitheria
-Glossotherium_robustum,-2.14,1.7,6.23,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Glyptodon_reticulatus,-2.09,1.72,5.94,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Holmesina_majus,-3.75,1.52,5.25,,,Xenarthra
-Hydrurga_leptonyx,-3.46,1.14,5.58,,,Epitheria
-Hypsiprymnodon_moschatus,-5.49,0.795,2.7,,,Prototheria+Metatheria
-Isoodon_obesulus,-4.54,0.793,2.86,2.35,3.76,Prototheria+Metatheria
-Lama_glama,-3.14,1.46,5,4.42,5.33,Epitheria
-Lasiorhinus_latifrons,-4.46,1.12,4.48,3.48,,Prototheria+Metatheria
-Leporillus_conditor,-5.02,0.618,2.5,,,Epitheria
-Lepus_capensis,-4.63,1.08,3.48,,,Epitheria
-Lepus_europaeus,-4.64,1.1,3.62,,,Epitheria
-Lestodon_armatus,-1.81,1.85,6.53,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Lobodon_carcinophaga,-2.2,1.05,5.33,,,Epitheria
-Macrauchenia_patachonica,-2.49,1.75,5.99,,,Epitheria
-Macroderma_gigas,-6.1,0.638,2.17,2.14,,Epitheria
-Macropus_fuliginosus,-3.59,1.43,4.48,,,Prototheria+Metatheria
-Manis_javanica,-4.07,0.944,3.71,3.04,,Epitheria
-Megatherium_americanum,-1.76,1.83,6.55,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Mylodon_darwinii,-2.21,1.84,6.3,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Myrmecophaga_tridactyla,-3.71,1.32,4.59,3.42,,Xenarthra
-Neoglyptatelus,-4.22,1.11,3.95,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Neosclerocalyptus_paskoensis,-2.29,1.45,5.48,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Neosclerocalyptus_ornatus,-2.81,1.54,5.48,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Notamacropus_agilis,-4.55,1.27,4.08,,,Prototheria+Metatheria
-Notamacropus_greyi,-4.05,1.16,4,,,Prototheria+Metatheria
-Notamacropus_irma,-4.21,1.19,3.9,,,Prototheria+Metatheria
-Notamacropus_parryi,-4.51,1.29,4.08,,,Prototheria+Metatheria
-Nothrotherium_maquinense,-3.54,1.41,5.23,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Ornithorhynchus_anatinus,-5.39,0.636,2.84,2.29,,Prototheria+Metatheria
-Oryctolagus_cuniculus,-4.92,0.926,3.2,2.85,3.83,Epitheria
-Osphranter_robustus,-3.55,1.29,4.47,3.91,,Prototheria+Metatheria
-Osphranter_rufus,-3.91,1.4,4.51,3.77,,Prototheria+Metatheria
-Ovis_aries,-3.47,1.29,4.33,4.01,4.78,Epitheria
-Panochthus_tuberculatus,-2.41,1.7,6.03,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Panthera_pardus,-3.67,1.39,4.62,,,Epitheria
-Perameles_gunnii,-5.31,0.621,2.92,2.62,,Prototheria+Metatheria
-Petaurus_breviceps,-5.43,0.61,2.1,1.95,,Prototheria+Metatheria
-Phascolarctos_cinereus,-4.71,1.18,4.01,3.01,,Prototheria+Metatheria
-Potorous_tridactylus,-5.55,0.898,2.99,2.62,3.87,Prototheria+Metatheria
-Priodontes_maximus,-3.68,1.21,4.65,3.48,,Xenarthra
-Propraopus_sulcatus,-3.83,1.29,4.67,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Pseudocheirus_peregrinus,-5.82,0.771,2.96,2.63,,Prototheria+Metatheria
-Rattus_fuscipes,-5.08,0.433,1.88,1.92,,Epitheria
-Rattus_lutreolus,-5.47,0.462,2.04,1.8,,Epitheria
-Rucervus_eldii,-3.52,1.44,5.11,,,Epitheria
-Scelidotherium_leptocephalum,-2.69,1.67,6.02,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Sus_scrofa,-3.69,1.35,4.74,3.92,5.02,Epitheria
-Tachyglossus_aculeatus,-4.97,0.773,3.44,2.63,3.6,Prototheria+Metatheria
-Tamandua_tetradactyla,-4.49,0.996,3.74,2.96,,Xenarthra
-Tapirus_indicus,-2.33,1.52,5.4,,,Epitheria
-Tetracerus_quadricornis,-3.87,1.25,4.28,,,Epitheria
-Thylacinus_cynocephalus,-4.99,1.31,4.48,,,Prototheria+Metatheria
-Toxodon_platensis,-2,1.77,6.22,,,Epitheria
-Ursus_arctos,-3.69,1.49,5.37,4.32,,Epitheria
-Valgipes_bucklandi,-2.26,1.62,5.86,,,Xenarthra fossil (Glyptodontinae+Folivora)
-Vombatus_ursinus,-4.16,1.14,4.41,,,Prototheria+Metatheria
-Vulpes_vulpes,-4.16,1.11,3.65,3.39,4.7,Epitheria
+Taxa,LogQ.,LogQi,LogFL,LogBm,LogBMR,LogMMR,Group
+Aepyprymnus_rufescens,-2.459344264,-4.51,1.02,3.45,3.03,,Prototheria+Metatheria
+Alces_alces,-1.240888321,-2.82,1.63,5.51,4.71,,Epitheria
+Antechinus_minimus,-4.069708441,-5.66,0.426,1.57,,,Prototheria+Metatheria
+Arctocephalus_forsteri,-1.882799606,-3.58,0.865,4.74,,,Epitheria
+Arctocephalus_pusillus,-1.850384353,-2.97,1.11,4.88,,,Epitheria
+Bettongia_lesueur,-2.825074259,-4.66,0.892,3.11,,,Prototheria+Metatheria
+Bettongia_penicillata,-2.914892585,-4.76,0.901,3.01,2.75,4.07,Prototheria+Metatheria
+Bos_taurus,-1.392926587,-3.03,1.59,5.35,4.67,6.16,Epitheria
+Bradypus_torquatus,-3.747038384,-5.96,0.993,3.59,,,Xenarthra
+Bradypus_tridactylus,-3.252021963,-5.27,1.01,3.59,2.84,3.15,Xenarthra
+Cabassous_unicinctus,-3.040911862,-4.83,0.88,3.51,2.91,,Xenarthra
+Camelus_dromedarius,-1.385407504,-3.06,1.66,5.6,4.61,6.08,Epitheria
+Canis_familiaris,-1.630123211,-3.1,1.18,4.21,,5.36,Epitheria
+Capra_hircus,-1.923592174,-3.57,1.28,4.39,4.1,4.91,Epitheria
+Catonyx_cuvieri,-1.023915133,-2.45,1.61,5.78,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Chaetophractus_vallerosus,-3.157723094,-4.94,0.815,3.01,2.48,,Xenarthra
+Choloepus_sp,-3.132488616,-5.110138279,1.022,3.8,,,Xenarthra
+Cyclopes_didactylus,-4.501826413,-6.56,0.556,2.38,2.06,,Xenarthra
+Dama_dama,-1.812632778,-3.49,1.4,4.85,,,Epitheria
+Dasypus_hybridus,-3.390084257,-5.29,0.828,3.2,,,Xenarthra
+Dasypus_novemcinctus,-3.368060236,-5.38,0.954,3.65,2.94,3.95,Xenarthra
+Dasypus_punctatus,-2.240435776,-4.16,1.25,4.45,,,Xenarthra
+Dasyuroides_byrnei,-3.871070492,-5.76,0.528,1.96,1.86,3.16,Prototheria+Metatheria
+Dendrolagus_bennettianus,-2.53731974,-4.4,1.19,3.97,,,Prototheria+Metatheria
+Dorcopsis_hageni,-3.165685193,-5.25,1.11,3.55,,,Prototheria+Metatheria
+Elephas_maximus,-0.315752651,-1.61,2,6.66,5.61,6.58,Epitheria
+Equus_asinus,-0.964531619,-2.27,1.55,5.25,4.47,,Epitheria
+Equus_caballus,-0.521264523,-1.61,1.67,5.83,4.81,6.53,Epitheria
+Euphractus_sexcinctus,-2.977058159,-4.74,0.881,3.68,3.09,,Xenarthra
+Felis_catus,-2.998298637,-4.83,1.04,3.66,3.31,,Epitheria
+Gazella_dorcas,-2.251123123,-3.97,1.19,4.33,,,Epitheria
+Giraffa_camelopardalis,-0.976118796,-2.4,1.64,5.88,,,Epitheria
+Glossotherium_robustum,-0.778842035,-2.14,1.7,6.23,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Glyptodon_reticulatus,-0.744932165,-2.09,1.72,5.94,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Holmesina_majus,-1.892631114,-3.75,1.52,5.25,,,Xenarthra
+Hydrurga_leptonyx,-1.946959567,-3.46,1.14,5.58,,,Epitheria
+Hypsiprymnodon_moschatus,-3.569264866,-5.49,0.795,2.7,,,Prototheria+Metatheria
+Isoodon_obesulus,-3.0251036,-4.54,0.793,2.86,2.35,3.76,Prototheria+Metatheria
+Lama_glama,-1.578727136,-3.14,1.46,5,4.42,5.33,Epitheria
+Lasiorhinus_latifrons,-2.618531124,-4.46,1.12,4.48,3.48,,Prototheria+Metatheria
+Leporillus_conditor,-2.947005322,-5.02,0.618,2.5,,,Epitheria
+Lepus_capensis,-2.764043588,-4.63,1.08,3.48,,,Epitheria
+Lepus_europaeus,-2.764002829,-4.64,1.1,3.62,,,Epitheria
+Lestodon_armatus,-0.509516461,-1.81,1.85,6.53,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Lobodon_carcinophaga,-1.228881718,-2.2,1.05,5.33,,,Epitheria
+Macrauchenia_patachonica,-0.96148925,-2.49,1.75,5.99,,,Epitheria
+Macroderma_gigas,-4.102906212,-6.1,0.638,2.17,2.14,,Epitheria
+Macropus_fuliginosus,-1.861895687,-3.59,1.43,4.48,,,Prototheria+Metatheria
+Manis_javanica,-2.482677003,-4.07,0.944,3.71,3.04,,Epitheria
+Megatherium_americanum,-0.511904752,-1.76,1.83,6.55,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Mylodon_darwinii,-0.738438759,-2.21,1.84,6.3,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Myrmecophaga_tridactyla,-1.995348524,-3.71,1.32,4.59,3.42,,Xenarthra
+Neoglyptatelus_uruguayensis,-2.468973548,-4.22,1.11,3.95,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Neosclerocalyptus_paskoensis,-1.182697007,-2.29,1.45,5.48,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Neosclerocalyptus_ornatus,-1.022119492,-2.81,1.54,5.48,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Notamacropus_agilis,-2.641719731,-4.55,1.27,4.08,,,Prototheria+Metatheria
+Notamacropus_greyi,-2.353423422,-4.05,1.16,4,,,Prototheria+Metatheria
+Notamacropus_irma,-2.413793801,-4.21,1.19,3.9,,,Prototheria+Metatheria
+Notamacropus_parryi,-2.545042963,-4.51,1.29,4.08,,,Prototheria+Metatheria
+Nothrotherium_maquinense,-1.833602434,-3.54,1.41,5.23,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Ornithorhynchus_anatinus,-3.601808447,-5.39,0.636,2.84,2.29,,Prototheria+Metatheria
+Oryctolagus_cuniculus,-3.120276667,-4.92,0.926,3.2,2.85,3.83,Epitheria
+Osphranter_robustus,-1.931875378,-3.55,1.29,4.47,3.91,,Prototheria+Metatheria
+Osphranter_rufus,-2.121598195,-3.91,1.4,4.51,3.77,,Prototheria+Metatheria
+Ovis_aries,-1.862512896,-3.47,1.29,4.33,4.01,4.78,Epitheria
+Panochthus_tuberculatus,-0.943948683,-2.41,1.7,6.03,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Panthera_pardus,-1.92717291,-3.67,1.39,4.62,,,Epitheria
+Perameles_gunnii,-3.297154547,-5.31,0.621,2.92,2.62,,Prototheria+Metatheria
+Petaurus_breviceps,-3.69645903,-5.43,0.61,2.1,1.95,,Prototheria+Metatheria
+Phascolarctos_cinereus,-2.721674301,-4.71,1.18,4.01,3.01,,Prototheria+Metatheria
+Potorous_tridactylus,-3.527994023,-5.55,0.898,2.99,2.62,3.87,Prototheria+Metatheria
+Priodontes_maximus,-2.045223806,-3.68,1.21,4.65,3.48,,Xenarthra
+Propraopus_sulcatus,-2.098946748,-3.83,1.29,4.67,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Pseudocheirus_peregrinus,-3.584355056,-5.82,0.771,2.96,2.63,,Prototheria+Metatheria
+Rattus_fuscipes,-3.956821809,-5.08,0.433,1.88,1.92,,Epitheria
+Rattus_lutreolus,-3.77994143,-5.47,0.462,2.04,1.8,,Epitheria
+Rucervus_eldii,-1.798145005,-3.52,1.44,5.11,,,Epitheria
+Scelidotherium_leptocephalum,-1.236272298,-2.69,1.67,6.02,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Sus_scrofa,-1.965020894,-3.69,1.35,4.74,3.92,5.02,Epitheria
+Tachyglossus_aculeatus,-3.422851542,-4.97,0.773,3.44,2.63,3.6,Prototheria+Metatheria
+Tamandua_tetradactyla,-2.924980467,-4.49,0.996,3.74,2.96,,Xenarthra
+Tapirus_indicus,-1.009713433,-2.33,1.52,5.4,,,Epitheria
+Tetracerus_quadricornis,-2.154693395,-3.87,1.25,4.28,,,Epitheria
+Thylacinus_cynocephalus,-2.861469054,-4.99,1.31,4.48,,,Prototheria+Metatheria
+Toxodon_platensis,-0.662045241,-2,1.77,6.22,,,Epitheria
+Ursus_arctos,-1.877805055,-3.69,1.49,5.37,4.32,,Epitheria
+Valgipes_bucklandi,-0.831139838,-2.26,1.62,5.86,,,Xenarthra fossil (Glyptodontinae+Folivora)
+Vombatus_ursinus,-2.135516599,-4.16,1.14,4.41,,,Prototheria+Metatheria
+Vulpes_vulpes,-2.450226045,-4.16,1.11,3.65,3.39,4.7,Epitheria
